@@ -13,6 +13,7 @@ body{
     width: 300px;
     background-color: #f2f2f2;
     height: auto;
+    border-radius: 5px;
 }
 #submit-btn{
     background-color: rgb(4, 184, 4);
